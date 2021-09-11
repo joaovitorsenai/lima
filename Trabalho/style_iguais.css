@@ -56,14 +56,20 @@
 	 padding: 10px 0px 0px 5px;
 	 font-size: 38px;
 	 color: #DCDCDC;
+	 font-family: cursive;
 }
 
 #titulo2{
 	text-align: left;
 	color: #DCDCDC;
+	font-family: cursive;
 }
 
 /*Rodape*/
+
+.tituloR{
+	font-family: cursive;
+}
 
 .rodape{
 	background-image: url('fundo.jpg');
@@ -77,6 +83,7 @@
 	color: #DCDCDC;
 	padding: 50px;
 	padding-left: 150px;
+	font-family: cursive;
 	
 	
 }
@@ -87,6 +94,7 @@
 
 .rodape div li a{
 	color: #DCDCDC;
+	font-family: cursive;
 }
 
 .rodape div li a:hover{
@@ -102,6 +110,7 @@
 	text-align: center;
 	margin: 5% 10% 0% 10%;
 	border-radius: 10px;
+	font-family: cursive;
 }
 
 .text{

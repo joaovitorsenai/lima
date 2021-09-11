@@ -8,6 +8,7 @@
 	padding-top: 20px;
 	font-size: 28px;
 	color: #DCDCDC;
+	font-family: cursive;
 }
 
 .container{
@@ -25,6 +26,7 @@
 	padding: 0% 0% 0% 5%;
 	margin-bottom: 10px;
 	color: #DCDCDC;
+	font-family: cursive;
 }
 
 .botao{
@@ -58,6 +60,7 @@
 	color: #DCDCDC;
 	padding: 50px;
 	padding-left: 150px;
+	font-family: cursive;
 }
 
 .footer div{
@@ -66,6 +69,7 @@
 
 .footer div li a{
 	color: #DCDCDC;
+	font-family: cursive;
 }
 
 .footer div li a:hover{

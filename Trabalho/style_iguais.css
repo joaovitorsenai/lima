@@ -105,7 +105,7 @@
 
 .frase p{
 	color: #fff;
-	background-color: grey;
+	background-color: darkgray;
 	padding: 20px;
 	text-align: center;
 	margin: 5% 10% 0% 10%;
@@ -124,14 +124,17 @@ fieldset{
 
 .contato{
 	margin: 5% 10% 5% 10%;
+	background-image: linear-gradient(to bottom right, red, yellow);
+	border-radius: 30px;
+	padding: 5%;
 }
 
 .caixa{
 	padding: 10px;
 	margin-bottom: 10px;
 	border-radius: 5px;
-	border-color: #87CEFA;
-	background-color: #B0E0E6;
+	border-color: #000;
+	background-color: #fff;
 }
 
 .botao{
@@ -139,6 +142,7 @@ fieldset{
 	background-color: #000000;
 	padding: 10px;
 	border-radius: 5px;
+	display: flex;
 }
 
 .botao:hover{

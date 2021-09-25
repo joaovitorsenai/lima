@@ -26,8 +26,10 @@
 }
 
 .texto{
-	background-color: rgba(86, 118, 165, 0.4);
+	background-image: linear-gradient(to bottom right, rgb(17, 71, 248), rgb(0, 0, 0));
+	color: #fff;
 	margin: 3% 10% 3% 10%;
 	padding: 30px;
 	border-radius: 8px;
 }
+

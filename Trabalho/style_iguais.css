@@ -105,7 +105,7 @@
 
 .frase p{
 	color: #fff;
-	background-color: darkgray;
+	background-image: linear-gradient(to bottom right, rgb(17, 71, 248), rgb(0, 0, 0));
 	padding: 20px;
 	text-align: center;
 	margin: 5% 10% 0% 10%;
@@ -124,7 +124,7 @@ fieldset{
 
 .contato{
 	margin: 5% 10% 5% 10%;
-	background-image: linear-gradient(to bottom right, red, yellow);
+	background-image: linear-gradient(to bottom right, rgb(17, 71, 248), rgb(0, 0, 0));
 	border-radius: 30px;
 	padding: 5%;
 }
@@ -136,6 +136,10 @@ fieldset{
 	border-color: #000;
 	background-color: #fff;
 }
+.labels{
+	font-family: cursive;
+	color: #fff;
+}
 
 .botao{
 	color: #ffffff;
@@ -143,11 +147,12 @@ fieldset{
 	padding: 10px;
 	border-radius: 5px;
 	display: flex;
+	font-family: cursive;
 }
 
 .botao:hover{
     color: #000000;
-    background-color: #87CEFA;
+    background-color: #87abfa;
 	transition: background .6s;
 }
 

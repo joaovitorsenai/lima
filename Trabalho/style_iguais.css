@@ -139,20 +139,21 @@ fieldset{
 .labels{
 	font-family: cursive;
 	color: #fff;
+	margin-left: 20%;
 }
 
 .botao{
 	color: #ffffff;
 	background-color: #000000;
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 20px;
 	display: flex;
 	font-family: cursive;
+	margin-left: 20%;
 }
 
 .botao:hover{
-    color: #000000;
-    background-color: #87abfa;
+    color: darkblue;
 	transition: background .6s;
 }
 
